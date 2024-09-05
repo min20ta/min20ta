@@ -1,3 +1,3 @@
-## 👋 Hi, I’m minji kim
+## 👋 Hi I'm
 
 
