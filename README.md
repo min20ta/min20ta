@@ -37,7 +37,7 @@
  <p align="left">       
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
  </p>
- express를 이용하여 crud를 작성한 할 수 있습니다.
+ express를 이용하여 crud를 작성할 수 있습니다.
 <br/>
 <br/>
        
